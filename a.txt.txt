@@ -1,0 +1,23 @@
+[info] Loading settings from plugins.sbt ...
+[info] Loading project definition from C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw7-UnBothered1\project
+[info] Loading settings from build.sbt ...
+[warn] C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw7-UnBothered1\hw7.scala:27: When a codeline gets too long, you should break it into
+[warn]   multiple lines. Why? Because overly long lines are hard to read. Such lines
+[warn]   often get cut off when printing your code. Other viewers may force the reader
+[warn]   to scroll to see the rest of the line. GitHub is particularly bad this,
+[warn]   because it forces the reader to scroll but gives no visual indication that
+[warn]   there is any reason to scroll.
+[warn]   
+[warn] C:\Users\x03099\Documents\DONTDELETE\Classes\Cow Classes S1\CS478 Programming Languages\Homeworks\hw7-UnBothered1\hw7.scala:83:78: Avoid whitespace at the end of a line. It can cause needless differences for version control.
+[warn] warnings exist
+CS478: hw7 (EECS Tester 0.4.3)
+UnBothered1
+>>>> Begin testing freevars1
+......
+>>>> End testing freevars1.
+>>>> Begin testing freevars2
+......
+>>>> End testing freevars2.
+>>>> Begin testing expand
+.....
+>>>> End testing expand.
